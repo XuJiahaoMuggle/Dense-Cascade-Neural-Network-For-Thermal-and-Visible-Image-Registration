@@ -5,9 +5,7 @@
 
 * **Comparison of registration results**
 
-  ![](./workspace/image/example.png)
-
-​               (a)Target                (b)PFNet             (c)DHN(d)        DHN-Two-Branch (e)Ours(4Modules)   (f)thermal image    (g)visible image
+  ![](./workspace/image/example.png)From left to right: Target, PFNet, DHN, DHN-Two-Branch, Ours(4Modules), thermal image, visible image
 
 * **Registration example**
 
